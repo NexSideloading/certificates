@@ -13,8 +13,8 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
-| Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
+| Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
+| Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
 | VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
