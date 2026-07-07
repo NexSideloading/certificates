@@ -55,7 +55,7 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 | Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
 | Global Takeoff, Inc (Scope ent distribution) | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT |
 | Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
-| Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
+| Global Takeoff, Inc (branch distribution) | ⚠️ Status: Unknown | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
 | Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
 | Guangzhou Huahan Educational & Technology Co., Ltd. | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
