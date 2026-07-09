@@ -1,13 +1,13 @@
-# NexCerts - **[NexSideloading](https://novadev.vip/sideloading/)**
+# NexCerts - **[NexSideloading](https://sideloading.novadev.vip/)**
 
-[![Download Certificates](https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white)](https://novadev.vip/sideloading/certificates/)
+[![Download Certificates](https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white)](https://sideloading.novadev.vip/certificates/)
 
 - Previously NovaCerts 
 -  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), and [Eojoo](https://github.com/eojoo/free-ios-certificates).  
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
 
 - Certificate statuses update every 30 minutes.  
-View the certificate status [here](https://novadev.vip/sideloading/certificates/)!
+View the certificate status [here](https://sideloading.novadev.vip/certificates/)!
 
 ---
 
@@ -64,4 +64,4 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 ---
 
 # Disclaimer
-Apple or the certificate owner may revoke any of our Enterprise Certificates at any time, causing apps signed with revoked certificates to stop working on iOS devices. Please make sure you have installed our Anti-Revoke DNS: [NexDNS](https://novadev.vip/sideloading/dns/) on your iDevice. Use of shared Enterprise Certificates must comply with Apple’s terms and policies. Contributors and maintainers of this repository are not responsible for any misuse, policy violations, or resulting damages, losses, or legal consequences.
+Apple or the certificate owner may revoke any of our Enterprise Certificates at any time, causing apps signed with revoked certificates to stop working on iOS devices. Please make sure you have installed our Anti-Revoke DNS: [NexDNS](https://sideloading.novadev.vip/dns/) on your iDevice. Use of shared Enterprise Certificates must comply with Apple’s terms and policies. Contributors and maintainers of this repository are not responsible for any misuse, policy violations, or resulting damages, losses, or legal consequences.
