@@ -1,8 +1,15 @@
 # NexCerts - **[NexSideloading](https://sideloading.novadev.vip/)**
+**The best place to get public enterprise certificates for iOS sideloading!**
 
 [![Download Certificates](https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white)](https://sideloading.novadev.vip/certificates/)
 
-- Previously NovaCerts 
+## API
+Check out our API at [sideloading.novadev.vip/more/api/](https://sideloading.novadev.vip/more/api/#cert-list)
+
+---
+
+- Previously NovaCerts  
+
 -  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), and [Eojoo](https://github.com/eojoo/free-ios-certificates).  
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
 
