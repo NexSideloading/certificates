@@ -1,7 +1,22 @@
-# NexCerts - **[NexSideloading](https://sideloading.novadev.vip/)**
-**The best place to get public enterprise certificates for iOS sideloading!**  
+<p align="center">
+  <a href="https://sideloading.novadev.vip/">
+    <img src="https://sideloading.novadev.vip/logo.png" width="100" alt="NexSideloading Logo">
+  </a>
+</p>
 
-[![Download Certificates](https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white)](https://sideloading.novadev.vip/certificates/)
+<h1 align="center">
+  NexCerts - <a href="https://sideloading.novadev.vip/">NexSideloading</a>
+</h1>
+
+<p align="center">
+  <strong>The best place to get public enterprise certificates for iOS sideloading!</strong>
+</p>
+
+<p align="center">
+  <a href="https://sideloading.novadev.vip/certificates/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Certificates">
+  </a>
+</p>
 
 ---
 
