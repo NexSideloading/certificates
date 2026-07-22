@@ -25,7 +25,7 @@ Check out our API at [https://sideloading.net/more/api/](https://sideloading.net
 
 ---
 
-- Previously NexCerts  
+- Previously NovaCerts  
 
 -  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), and [Eojoo](https://github.com/eojoo/free-ios-certificates).  
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
