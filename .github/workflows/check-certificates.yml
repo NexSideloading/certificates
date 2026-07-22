@@ -39,7 +39,7 @@ jobs:
         sudo apt-get install -y curl jq wget tar python3 coreutils unzip zip \
           libminizip1 libminizip-dev zlib1g
 
-    - name: Normalize p12 passwords to NovaCerts
+    - name: Normalize p12 passwords to NexCerts
       run: |
         set -euo pipefail
 
@@ -47,8 +47,8 @@ jobs:
           dir="$(dirname "$passfile")"
           current_pass="$(tr -d '\r\n' < "$passfile")"
 
-          if [ "$current_pass" = "NovaCerts" ]; then
-            echo "✔ Already NovaCerts: $dir"
+          if [ "$current_pass" = "NexCerts" ]; then
+            echo "✔ Already NexCerts: $dir"
             continue
           fi
 
@@ -76,13 +76,13 @@ jobs:
               -export \
               -in "$pem_file" \
               -out "$new_p12" \
-              -passout "pass:NovaCerts"
+              -passout "pass:NexCerts"
 
             mv "$new_p12" "$p12_file"
             rm -f "$pem_file"
           done
 
-          echo "NovaCerts" > "$passfile"
+          echo "NexCerts" > "$passfile"
           echo "✅ Updated passwords in $dir"
         done
 
