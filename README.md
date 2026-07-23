@@ -67,7 +67,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Commission on Elections (United politics) | ❌ Revoked | Aug 25 01:31:00 2025 GMT | Aug 25 01:31:00 2026 GMT |
 | Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
 | Commission on Elections (Committee Supervision) | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT |
-| Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 7 11:07:09 2026 GMT |
+| Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
 | VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
 | China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
 | Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
@@ -85,6 +85,14 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Guangzhou Huahan Educational & Technology Co., Ltd. | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
 | China National Heavy Duty Truck Group Co., Ltd. | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
+
+---
+
+## Certificates without P12
+| Certificate | Status | Valid From | Valid To |
+|:--------|:------|:----------|:--------|
+| AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
+| Wuhan Land Resource and Urban Planning Information Center | ✅ Signed | Jan 29 09:44:29 2026 GMT | Aug 7 01:01:07 2026 GMT |
 
 ---
 

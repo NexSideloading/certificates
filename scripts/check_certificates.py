@@ -78,46 +78,74 @@ def latest_of_strings(a_str, b_str):
     # fallback: lexical
     return a_str if a_str > b_str else b_str
 
-def get_certificate_status(cert_name):
-    """Call your API to get certificate status and parse response."""
-    cert_dir = Path(cert_name)
-
-    # Find the .p12 and .mobileprovision files
-    p12_files = list(cert_dir.glob("*.p12"))
-    mp_files = list(cert_dir.glob("*.mobileprovision"))
-
-    if not p12_files or not mp_files:
-        print(f"❌ Missing .p12 or .mobileprovision files for {cert_name}")
-        return None
-
-    p12_path = p12_files[0]
-    mp_path = mp_files[0]
-
-    # Read password.txt or use default
-    password_file = cert_dir / "password.txt"
-    if password_file.exists():
-        with open(password_file, 'r', encoding='utf-8') as f:
-            password = f.read().strip()
+def get_certificate_status(cert_name, no_p12=False):
+    """Call your API to get certificate status and parse response.
+    
+    Args:
+        cert_name: Name of the certificate directory or file path
+        no_p12: If True, only send mobileprovision file (no P12)
+    """
+    if no_p12:
+        # For no_p12 certificates, cert_name is the full path to the mobileprovision file
+        mp_path = Path(cert_name)
+        if not mp_path.exists():
+            print(f"❌ Missing .mobileprovision file for {cert_name}")
+            return None
+        mp_files = [mp_path]
+        p12_files = []
     else:
-        password = "nezushub.vip"
+        cert_dir = Path(cert_name)
+        # Find the .p12 and .mobileprovision files
+        p12_files = list(cert_dir.glob("*.p12"))
+        mp_files = list(cert_dir.glob("*.mobileprovision"))
+
+        if not mp_files:
+            print(f"❌ Missing .mobileprovision file for {cert_name}")
+            return None
+
+        mp_path = mp_files[0]
+
+        # For certificates with P12, require it
+        if not p12_files:
+            print(f"❌ Missing .p12 file for {cert_name}")
+            return None
 
     url = "https://certChecker.novadev.vip/checkCert"
 
     # Use context manager to ensure files are closed after request
     try:
-        with open(p12_path, "rb") as p12f, open(mp_path, "rb") as mpf:
-            files = {
-                "p12": (p12_path.name, p12f, "application/x-pkcs12"),
-                "mobileprovision": (mp_path.name, mpf, "application/octet-stream"),
-            }
+        if no_p12:
+            # Only send mobileprovision file
+            with open(mp_path, "rb") as mpf:
+                files = {
+                    "mobileprovision": (mp_path.name, mpf, "application/octet-stream"),
+                }
+                data = {}
+                response = requests.post(url, files=files, data=data, timeout=60)
+        else:
+            # Send both P12 and mobileprovision
+            p12_path = p12_files[0]
+            
+            # Read password.txt or use default
+            password_file = cert_dir / "password.txt"
+            if password_file.exists():
+                with open(password_file, 'r', encoding='utf-8') as f:
+                    password = f.read().strip()
+            else:
+                password = "nezushub.vip"
 
-            data = {
-                "password": password
-            }
-
-            response = requests.post(url, files=files, data=data, timeout=60)
-            response.raise_for_status()
-            result = response.json()
+            with open(p12_path, "rb") as p12f, open(mp_path, "rb") as mpf:
+                files = {
+                    "p12": (p12_path.name, p12f, "application/x-pkcs12"),
+                    "mobileprovision": (mp_path.name, mpf, "application/octet-stream"),
+                }
+                data = {
+                    "password": password
+                }
+                response = requests.post(url, files=files, data=data, timeout=60)
+        
+        response.raise_for_status()
+        result = response.json()
     except Exception as e:
         print(f"❌ Error checking {cert_name}: {e}")
         return None
@@ -127,6 +155,7 @@ def get_certificate_status(cert_name):
     mp_info = result.get("mobileprovision", {})
 
     # Use your logic for status emoji and status value
+    # The API extracts the cert from mobileprovision and returns it in the p12 field
     status_raw = p12_info.get("Status", "") or ""
     status_normalized = status_raw.lower()
 
@@ -138,9 +167,9 @@ def get_certificate_status(cert_name):
         final_status = "Unknown"
 
     # Dates: keep exactly as returned by API
+    # Use p12_info dates since the API extracts the cert from mobileprovision
     cert_effective = p12_info.get("Valid From", "")
     cert_expiration = p12_info.get("Valid To", "")
-
     mp_effective = mp_info.get("Valid From", "")
     mp_expiration = mp_info.get("Valid To", "")
 
@@ -159,35 +188,52 @@ def get_certificate_status(cert_name):
     }
 
 def parse_readme_table(readme_content):
-    """Parse the markdown table from README.md."""
+    """Parse the markdown tables from README.md.
+    
+    Returns:
+        certificates: List of certificate info dicts with 'no_p12' flag
+        lines: The original lines from README
+    """
     lines = readme_content.split('\n')
-    table_start = -1
-
-    for i, line in enumerate(lines):
+    certificates = []
+    
+    # Find all table sections
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        
+        # Check if this is a table header
         if line.startswith('| Certificate | Status |'):
             table_start = i
-            break
+            no_p12 = False
+            
+            # Check if this is the "Certificates without P12" section
+            # Look backwards to find the heading
+            for j in range(max(0, i - 5), i):
+                if 'Certificates without P12' in lines[j]:
+                    no_p12 = True
+                    break
+            
+            # Parse table rows
+            for j in range(table_start + 2, len(lines)):
+                row_line = lines[j].rstrip('\n')
+                if not row_line.startswith('|') or row_line.startswith('|---'):
+                    break
 
-    if table_start == -1:
-        return [], lines
+                cells = [cell.strip() for cell in row_line.split('|')[1:-1]]
 
-    certificates = []
-    for i in range(table_start + 2, len(lines)):
-        line = lines[i].rstrip('\n')
-        if not line.startswith('|') or line.startswith('|---'):
-            break
-
-        cells = [cell.strip() for cell in line.split('|')[1:-1]]
-
-        if len(cells) >= 3:
-            cert_info = {
-                "company": cells[0],
-                "status": cells[1],
-                "valid_from": cells[2],
-                "valid_to": cells[3] if len(cells) > 3 else "",
-                "line_index": i
-            }
-            certificates.append(cert_info)
+                if len(cells) >= 3:
+                    cert_info = {
+                        "company": cells[0],
+                        "status": cells[1],
+                        "valid_from": cells[2],
+                        "valid_to": cells[3] if len(cells) > 3 else "",
+                        "line_index": j,
+                        "no_p12": no_p12
+                    }
+                    certificates.append(cert_info)
+        
+        i += 1
 
     return certificates, lines
 
@@ -247,9 +293,12 @@ def main():
     updated_certs = []
     for cert_info in certificates:
         company = cert_info['company']
-        print(f"Checking {company}...")
+        no_p12 = cert_info.get('no_p12', False)
+        print(f"Checking {company}{' (no P12)' if no_p12 else ''}...")
 
-        result = get_certificate_status(company)
+        # For no_p12 certificates, they are files in the 'No P12' directory with .mobileprovision extension
+        cert_path = f"No P12/{company}.mobileprovision" if no_p12 else company
+        result = get_certificate_status(cert_path, no_p12=no_p12)
         if result:
             cert_info['status'] = result['status']
             cert_info['valid_from'] = result['effective']
