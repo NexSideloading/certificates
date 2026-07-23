@@ -25,9 +25,7 @@ Check out our API at [https://sideloading.net/more/api/](https://sideloading.net
 
 ---
 
-- Previously NovaCerts  
-
--  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), and [Eojoo](https://github.com/eojoo/free-ios-certificates).  
+-  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), [CocoCloud](https://cococloud-signing.vip), [Eojoo](https://github.com/eojoo/free-ios-certificates), and [Delta Executor](https://delta.bz/) for missing P12 certificates.  
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
 
 - Certificate statuses update every 30 minutes.  
@@ -89,7 +87,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 
 ---
 
-## Certificates without P12
+## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
