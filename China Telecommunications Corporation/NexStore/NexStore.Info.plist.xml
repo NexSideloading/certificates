@@ -7,7 +7,7 @@
 		<string>com.novadev.nexstore.userTask.*</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25D125</string>
+	<string>25E246</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.0</string>
+	<string>1.1.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -100,7 +100,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>5506739578c155551694768f0c516b095066f388</string>
+	<string>4fe000f55ded631897e32fcceb49e688da4e7d3c</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
