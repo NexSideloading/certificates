@@ -55,7 +55,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
-| PowerChina International Group Limited (j3krPY) | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
+| PowerChina International Group Limited (j3krPY) | ⚠️ Status: Unknown | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | China Academy of Railway Sciences | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT |
