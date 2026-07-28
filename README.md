@@ -75,11 +75,11 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Luoyang Postal Administration | ❌ Revoked | Aug 10 03:10:38 2025 GMT | Aug 10 03:10:38 2026 GMT |
 | Global Takeoff, Inc (Airtel Adhoc) | ❌ Revoked | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT |
 | Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
-| Global Takeoff, Inc (Fairplay) | ⚠️ Status: Unknown | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
+| Global Takeoff, Inc (Fairplay) | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
 | Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
 | Global Takeoff, Inc (Scope ent distribution) | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT |
 | Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
-| Global Takeoff, Inc (branch distribution) | ⚠️ Status: Unknown | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
+| Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
 | Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
 | Guangzhou Huahan Educational & Technology Co., Ltd. | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
