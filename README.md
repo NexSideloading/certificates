@@ -69,7 +69,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
 | VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
 | China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
-| Wuling Power Corporation | ⚠️ Status: Unknown | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
+| Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
 | Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT |
 | Wasu Media & Networking Co., Ltd (com.wasu.demo) | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
 | Luoyang Postal Administration | ❌ Revoked | Aug 10 03:10:38 2025 GMT | Aug 10 03:10:38 2026 GMT |
