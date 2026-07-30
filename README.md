@@ -36,6 +36,11 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
+| BOC International (China) Limited (qi ye weixin app id huiyi kuozhan) | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| Beijing Xibei Longzhimeng Restaurant Management Co., Ltd. | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
@@ -46,11 +51,14 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS LIDO UAT) | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
-| China Telecom Corporation Limited | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
+| China Telecom Corporation Limited (yb_In House) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
+| China Telecom Corporation Limited (yb_house) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
 | Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
-| Beijing Zhizhangyi Inc. | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
+| Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
+| Beijing Zhizhangyi Inc. (SdpNetworkextension) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
-| National Oilwell Varco, Inc | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
 | VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
 | Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
