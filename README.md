@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong>The largest public iOS enterprise certificate repository!</strong>
+  <strong>The leading public iOS enterprise certificate repository!</strong>
 </p>
 
 <p align="center">
