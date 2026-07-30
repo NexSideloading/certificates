@@ -89,9 +89,9 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
 | Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
 | Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
-| Guangzhou Huahan Educational & Technology Co., Ltd. | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
+| Guangzhou Huahan Educational & Technology Co., Ltd | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
-| China National Heavy Duty Truck Group Co., Ltd. | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
+| China National Heavy Duty Truck Group Co., Ltd | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
 
 ---
 
