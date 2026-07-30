@@ -40,7 +40,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
-| Beijing Xibei Longzhimeng Restaurant Management Co., Ltd. | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| Beijing Xibei Longzhimeng Restaurant Management Co., Ltd | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
