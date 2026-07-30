@@ -58,7 +58,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Global Takeoff, Inc (Fairplay) | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
 | Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
 | Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
-| Wuhan Land Resource and Urban Planning Information Center | ✅ Signed | Jan 29 09:44:29 2026 GMT | Aug 7 01:01:07 2026 GMT |
 | VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
@@ -89,7 +88,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | China Telecom Corporation Limited (yb_house) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
 | China Telecom Corporation Limited (yb_In House) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
-| AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |

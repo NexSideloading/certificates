@@ -207,10 +207,10 @@ def parse_readme_table(readme_content):
             table_start = i
             no_p12 = False
             
-            # Check if this is the "Certificates without P12" section
+            # Check if this is the "Certificates missing P12" section
             # Look backwards to find the heading
             for j in range(max(0, i - 5), i):
-                if 'Certificates without P12' in lines[j]:
+                if 'Certificates missing P12' in lines[j]:
                     no_p12 = True
                     break
             
@@ -223,9 +223,14 @@ def parse_readme_table(readme_content):
                 cells = [cell.strip() for cell in row_line.split('|')[1:-1]]
 
                 if len(cells) >= 3:
+                    # Extract status without emoji (e.g., "✅ Signed" -> "Signed")
+                    status_with_emoji = cells[1]
+                    status_parts = status_with_emoji.split()
+                    status = status_parts[1] if len(status_parts) > 1 else status_with_emoji
+                    
                     cert_info = {
                         "company": cells[0],
-                        "status": cells[1],
+                        "status": status,
                         "valid_from": cells[2],
                         "valid_to": cells[3] if len(cells) > 3 else "",
                         "line_index": j,
@@ -287,7 +292,7 @@ def _update_table_section(sorted_certs, lines, is_no_p12_table):
     """Update a specific table section with sorted certificates.
     
     Args:
-        sorted_certs: List of sorted certificate info dicts
+        sorted_certs: List of sorted certificate info dicts (already filtered for this table)
         lines: The README lines to update
         is_no_p12_table: True if this is the "Certificates missing P12" table
     """
@@ -337,7 +342,14 @@ def _update_table_section(sorted_certs, lines, is_no_p12_table):
     
     new_rows = [header_line, separator_line]
     
+    # Only include certificates that belong to this table
     for cert in sorted_certs:
+        # Double-check that this certificate belongs to the correct table
+        if is_no_p12_table and not cert.get('no_p12', False):
+            continue
+        if not is_no_p12_table and cert.get('no_p12', False):
+            continue
+        
         status = cert.get('status', '').lower()
         status_emoji = '✅' if status == 'valid' else ('❌' if status == 'revoked' else '⚠️')
 
