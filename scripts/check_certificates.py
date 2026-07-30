@@ -243,7 +243,7 @@ def parse_readme_table(readme_content):
     return certificates, lines
 
 def sort_certificates_by_expiry(certificates):
-    """Sort certificates by status (valid first) then by expiry date (valid_to field) in ascending order.
+    """Sort certificates by status (valid first) then by expiry date (valid_to field) in descending order (oldest expiry at top).
     
     Args:
         certificates: List of certificate info dicts with 'valid_to' and 'status' fields
@@ -257,14 +257,15 @@ def sort_certificates_by_expiry(certificates):
         is_valid = status in ('valid', 'signed')
         status_priority = 0 if is_valid else 1
         
-        # Secondary sort: expiry date
+        # Secondary sort: expiry date (descending for oldest at top)
         valid_to = cert.get('valid_to', '')
         dt = parse_api_date(valid_to)
         if dt:
-            expiry_key = dt
+            # Use negative timestamp to sort descending
+            expiry_key = -dt.timestamp()
         else:
-            # If parsing fails, use a far future date so it sorts last
-            expiry_key = datetime.max
+            # If parsing fails, use a far past date so it sorts first (oldest)
+            expiry_key = -datetime.min.timestamp()
         
         return (status_priority, expiry_key)
     
