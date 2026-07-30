@@ -237,14 +237,107 @@ def parse_readme_table(readme_content):
 
     return certificates, lines
 
+def sort_certificates_by_expiry(certificates):
+    """Sort certificates by status (valid first) then by expiry date (valid_to field) in ascending order.
+    
+    Args:
+        certificates: List of certificate info dicts with 'valid_to' and 'status' fields
+        
+    Returns:
+        Sorted list of certificates
+    """
+    def get_sort_key(cert):
+        # Primary sort: status (valid/signed first, then others)
+        status = cert.get('status', '').lower()
+        is_valid = status in ('valid', 'signed')
+        status_priority = 0 if is_valid else 1
+        
+        # Secondary sort: expiry date
+        valid_to = cert.get('valid_to', '')
+        dt = parse_api_date(valid_to)
+        if dt:
+            expiry_key = dt
+        else:
+            # If parsing fails, use a far future date so it sorts last
+            expiry_key = datetime.max
+        
+        return (status_priority, expiry_key)
+    
+    return sorted(certificates, key=get_sort_key)
+
 def update_readme_table(certificates, lines):
-    """Update the README.md lines with new certificate statuses."""
+    """Update the README.md lines with new certificate statuses and sort by expiry."""
     updated_lines = lines.copy()
 
-    for cert in certificates:
-        idx = cert['line_index']
-        row_parts = updated_lines[idx].split('|')
+    # Separate certificates by table (with P12 vs without P12)
+    certs_with_p12 = [c for c in certificates if not c.get('no_p12', False)]
+    certs_without_p12 = [c for c in certificates if c.get('no_p12', False)]
 
+    # Sort each group by expiry date
+    sorted_with_p12 = sort_certificates_by_expiry(certs_with_p12)
+    sorted_without_p12 = sort_certificates_by_expiry(certs_without_p12)
+
+    # Update each table section
+    _update_table_section(sorted_with_p12, updated_lines, False)
+    _update_table_section(sorted_without_p12, updated_lines, True)
+
+    return updated_lines
+
+def _update_table_section(sorted_certs, lines, is_no_p12_table):
+    """Update a specific table section with sorted certificates.
+    
+    Args:
+        sorted_certs: List of sorted certificate info dicts
+        lines: The README lines to update
+        is_no_p12_table: True if this is the "Certificates missing P12" table
+    """
+    if not sorted_certs:
+        return
+
+    # Find the table section
+    table_start = None
+    table_end = None
+    
+    for i, line in enumerate(lines):
+        if line.startswith('| Certificate | Status |'):
+            # Check if this is the correct table
+            if is_no_p12_table:
+                # Look backwards for "Certificates missing P12" heading
+                is_correct = False
+                for j in range(max(0, i - 5), i):
+                    if 'Certificates missing P12' in lines[j]:
+                        is_correct = True
+                        break
+                if not is_correct:
+                    continue
+            else:
+                # Look backwards for "Certificates" heading (not "missing P12")
+                is_correct = True
+                for j in range(max(0, i - 5), i):
+                    if 'Certificates missing P12' in lines[j]:
+                        is_correct = False
+                        break
+                if not is_correct:
+                    continue
+            
+            table_start = i
+            # Find the end of the table
+            for j in range(i + 2, len(lines)):
+                if not lines[j].startswith('|') or lines[j].startswith('|---'):
+                    table_end = j
+                    break
+            break
+
+    if table_start is None or table_end is None:
+        return
+
+    # Build new table rows
+    header_line = lines[table_start]
+    separator_line = lines[table_start + 1]
+    
+    new_rows = [header_line, separator_line]
+    
+    for cert in sorted_certs:
         status = cert.get('status', '').lower()
         status_emoji = '✅' if status == 'valid' else ('❌' if status == 'revoked' else '⚠️')
 
@@ -256,22 +349,19 @@ def update_readme_table(certificates, lines):
         elif status == 'unknown':
             new_status = f"{status_emoji} Status: Unknown"
         else:
-            new_status = row_parts[2].strip()
+            new_status = cert.get('status', '')
 
-        valid_from = cert.get('valid_from', '').strip() or row_parts[3].strip()
-        valid_to = cert.get('valid_to', '').strip() or row_parts[4].strip()
+        valid_from = cert.get('valid_from', '').strip()
+        valid_to = cert.get('valid_to', '').strip()
 
-        # Update the row parts with spaces around for neatness
-        if len(row_parts) > 2:
-            row_parts[2] = f" {new_status} "
-        if len(row_parts) > 3:
-            row_parts[3] = f" {valid_from} "
-        if len(row_parts) > 4:
-            row_parts[4] = f" {valid_to} "
+        # Build the new row
+        new_row = f"| {cert['company']} | {new_status} | {valid_from} | {valid_to} |"
+        new_rows.append(new_row)
 
-        updated_lines[idx] = '|'.join(row_parts)
-
-    return updated_lines
+    # Replace the table section in lines
+    # Remove old table rows (from table_start to table_end)
+    # Insert new rows at table_start
+    lines[table_start:table_end] = new_rows
 
 def main():
     # Read README.md
