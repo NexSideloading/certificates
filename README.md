@@ -57,7 +57,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
-| Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| Viet Nam Rubber Group Limited | ⚠️ Status: Unknown | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 | Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
 | Commission on Elections (Complaints Management) | ❌ Revoked | Sep 23 08:42:18 2025 GMT | Sep 23 08:42:18 2026 GMT |
 | Commission on Elections (Committee Supervision) | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT |
