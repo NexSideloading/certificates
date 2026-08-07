@@ -43,7 +43,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | China Telecom Corporation Limited (yb_In House) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
 | China Telecom Corporation Limited (yb_house) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
-| National Oilwell Varco, Inc (WB Carbon) | ⚠️ Status: Unknown | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
+| National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
