@@ -82,7 +82,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
 | Commission on Elections (EMS Manage) | ❌ Revoked | Apr 28 11:36:00 2025 GMT | Apr 28 11:36:00 2026 GMT |
 | Commission on Elections (Report) | ❌ Revoked | Apr 28 11:35:11 2025 GMT | Apr 28 11:35:11 2026 GMT |
-| VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
+| VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ⚠️ Status: Unknown | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
 | VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
 | China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
 | Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
