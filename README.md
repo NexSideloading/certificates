@@ -88,7 +88,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
 | China National Heavy Duty Truck Group Co., Ltd | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
 | Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
-| Etisalat - Emirates Telecommunications Corporation | ⚠️ Status: Unknown | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
+| Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
 | Guangzhou Huahan Educational & Technology Co., Ltd | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT |
 | Wasu Media & Networking Co., Ltd (com.wasu.demo) | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
