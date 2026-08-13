@@ -91,7 +91,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
 | Guangzhou Huahan Educational & Technology Co., Ltd | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
 | Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT |
-| Wasu Media & Networking Co., Ltd (com.wasu.demo) | ⚠️ Status: Unknown | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
+| Wasu Media & Networking Co., Ltd (com.wasu.demo) | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
 
 ---
 
