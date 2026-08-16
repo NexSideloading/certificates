@@ -36,12 +36,15 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
+| JCENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
+| CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
-| China Telecom Corporation Limited (yb_In House) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
-| China Telecom Corporation Limited (yb_house) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban inde) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
