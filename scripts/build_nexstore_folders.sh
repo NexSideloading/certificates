@@ -8,6 +8,7 @@ cleanup_zsign_artifacts() {
   local target_dir=$1
   rm -f "$target_dir"/zsign "$target_dir"/zsign.tgz "$target_dir"/zsign-linux-* "$target_dir"/*.tar.gz || true
   rm -rf "$target_dir"/zsign* || true
+  rm -f "$target_dir"/NexStore.Info.plist "$target_dir"/NexStore.Info.plist.xml || true
 }
 
 normalize_release_version() {
