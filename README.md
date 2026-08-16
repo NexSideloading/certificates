@@ -36,7 +36,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
@@ -57,6 +56,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
+| CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Nov 3 03:27:13 2025 GMT | Nov 3 03:27:13 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
