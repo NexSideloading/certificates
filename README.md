@@ -29,7 +29,8 @@ Check out our API at [https://sideloading.net/api/](https://sideloading.net/api/
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
 - Certificate statuses update every 30 minutes.  
 View the certificate status [here](https://sideloading.net/certificates/)!  
-- Sorted by expiry date
+- Sorted by expiry date  
+- Expired certificates will be removed automatically
 
 ---
 
@@ -66,35 +67,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Commission on Elections (Committee Supervision) | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT |
 | Commission on Elections (United politics) | ❌ Revoked | Aug 25 01:31:00 2025 GMT | Aug 25 01:31:00 2026 GMT |
 | Beijing Zhizhangyi Inc. (SdpNetworkextension) | ❌ Revoked | Aug 27 03:17:18 2025 GMT | Aug 22 10:51:03 2026 GMT |
-| Beijing Xibei Longzhimeng Restaurant Management Co., Ltd | ❌ Revoked | Aug 13 03:14:40 2025 GMT | Aug 13 03:14:40 2026 GMT |
-| Luoyang Postal Administration | ❌ Revoked | Aug 10 03:10:38 2025 GMT | Aug 10 03:10:38 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS LIDO UAT) | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS Uat) | ❌ Revoked | Aug 8 07:24:27 2025 GMT | Aug 8 07:24:27 2026 GMT |
-| VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
-| VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
-| Beijing Zhizhangyi Inc. (Mobile Portal) | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
-| Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
-| Global Takeoff, Inc (Fairplay) | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
-| Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
-| Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
-| Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
-| Global Takeoff, Inc (Airtel Adhoc) | ❌ Revoked | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT |
-| Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
-| Global Takeoff, Inc (Scope ent distribution) | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT |
-| Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
-| Commission on Elections (EMS Manage) | ❌ Revoked | Apr 28 11:36:00 2025 GMT | Apr 28 11:36:00 2026 GMT |
-| Commission on Elections (Report) | ❌ Revoked | Apr 28 11:35:11 2025 GMT | Apr 28 11:35:11 2026 GMT |
-| VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
-| VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
-| China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
-| Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
-| China National Heavy Duty Truck Group Co., Ltd | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
-| Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
-| Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 07 11:07:09 2026 GMT |
-| Guangzhou Huahan Educational & Technology Co., Ltd | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
-| Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT |
-| Wasu Media & Networking Co., Ltd (com.wasu.demo) | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
 
 ---
 

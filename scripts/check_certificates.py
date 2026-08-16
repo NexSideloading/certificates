@@ -5,6 +5,7 @@ from pathlib import Path
 from datetime import datetime
 import re
 import sys
+import shutil
 
 def parse_api_date(date_str):
     """Parse dates like 'Aug 25 01:31:00 2025 GMT' robustly into a datetime.
@@ -376,6 +377,59 @@ def _update_table_section(sorted_certs, lines, is_no_p12_table):
     # Insert new rows at table_start
     lines[table_start:table_end] = new_rows
 
+def is_certificate_expired(valid_to_str):
+    """Check if a certificate is expired based on its valid_to date.
+    
+    Args:
+        valid_to_str: Date string like 'Jan 12 05:42:11 2026 GMT'
+        
+    Returns:
+        True if expired, False otherwise
+    """
+    if not valid_to_str:
+        return False
+    
+    expiry_date = parse_api_date(valid_to_str)
+    if not expiry_date:
+        return False
+    
+    # Compare with current time (UTC)
+    now = datetime.utcnow()
+    return expiry_date < now
+
+def delete_certificate(company, no_p12=False):
+    """Delete a certificate folder or file.
+    
+    Args:
+        company: Name of the certificate
+        no_p12: If True, delete from 'No P12' directory as a file
+        
+    Returns:
+        True if deleted successfully, False otherwise
+    """
+    try:
+        if no_p12:
+            cert_path = Path(f"No P12/{company}.mobileprovision")
+            if cert_path.exists():
+                cert_path.unlink()
+                print(f"  🗑️ Deleted expired certificate file: {cert_path}")
+                return True
+            else:
+                print(f"  ⚠️ Certificate file not found: {cert_path}")
+                return False
+        else:
+            cert_dir = Path(company)
+            if cert_dir.exists() and cert_dir.is_dir():
+                shutil.rmtree(cert_dir)
+                print(f"  🗑️ Deleted expired certificate folder: {cert_dir}")
+                return True
+            else:
+                print(f"  ⚠️ Certificate folder not found: {cert_dir}")
+                return False
+    except Exception as e:
+        print(f"  ❌ Error deleting certificate: {e}")
+        return False
+
 def main():
     # Read README.md
     try:
@@ -394,9 +448,21 @@ def main():
     print(f"Found {len(certificates)} certificates in README.md")
 
     updated_certs = []
+    deleted_certs = []
+    
     for cert_info in certificates:
         company = cert_info['company']
         no_p12 = cert_info.get('no_p12', False)
+        valid_to = cert_info.get('valid_to', '')
+        
+        # Check if certificate is expired based on README data
+        if is_certificate_expired(valid_to):
+            print(f"⏰ {company} is EXPIRED (Valid To: {valid_to})")
+            # Delete the certificate folder/file
+            if delete_certificate(company, no_p12):
+                deleted_certs.append(cert_info)
+            continue
+        
         print(f"Checking {company}{' (no P12)' if no_p12 else ''}...")
 
         # For no_p12 certificates, they are files in the 'No P12' directory with .mobileprovision extension
@@ -416,7 +482,14 @@ def main():
             print(f"  ⚠️ Could not check status")
             updated_certs.append(cert_info)
 
-    updated_lines = update_readme_table(updated_certs, lines)
+    # Remove deleted certificates from the README
+    if deleted_certs:
+        print(f"\n🗑️ Removing {len(deleted_certs)} expired certificates from README...")
+        # Filter out deleted certificates from the list
+        remaining_certs = [c for c in certificates if c not in deleted_certs]
+        updated_lines = update_readme_table(remaining_certs, lines)
+    else:
+        updated_lines = update_readme_table(updated_certs, lines)
 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write('\n'.join(updated_lines))
