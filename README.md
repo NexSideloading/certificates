@@ -37,14 +37,13 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | JCENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
-| CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
 | China Telecom Corporation Limited (XC com ctq qmc yiban inde) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
-| China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
-| China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | Apr 23 08:41:58 2026 GMT | Apr 23 08:41:58 2027 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
@@ -58,6 +57,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
+| CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
