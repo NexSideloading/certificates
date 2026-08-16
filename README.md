@@ -99,7 +99,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
-| Wuhan Land Resource and Urban Planning Information Center | ❌ Revoked | Jan 29 09:44:29 2026 GMT | Aug 7 01:01:07 2026 GMT |
 
 ---
 
