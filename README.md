@@ -21,7 +21,7 @@
 ---
 
 ## API
-Check out our API at [https://sideloading.net/more/api/](https://sideloading.net/more/api/#cert-list)
+Check out our API at [https://sideloading.net/api/](https://sideloading.net/api/#cert-list)
 
 ---
 
