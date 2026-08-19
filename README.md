@@ -73,7 +73,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| AmorePacific Trading Co.,Ltd | Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
+| AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
 
 ---
 
