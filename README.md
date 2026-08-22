@@ -66,7 +66,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Commission on Elections (Complaints Management) | ❌ Revoked | Sep 23 08:42:18 2025 GMT | Sep 23 08:42:18 2026 GMT |
 | Commission on Elections (Committee Supervision) | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT |
 | Commission on Elections (United politics) | ❌ Revoked | Aug 25 01:31:00 2025 GMT | Aug 25 01:31:00 2026 GMT |
-| Beijing Zhizhangyi Inc. (SdpNetworkextension) | ❌ Revoked | Aug 27 03:17:18 2025 GMT | Aug 22 10:51:03 2026 GMT |
 
 ---
 
