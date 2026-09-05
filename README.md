@@ -50,7 +50,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
-| Qingdao Rural Commercial Bank Co., Ltd | ❌ Revoked | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT |
+| Qingdao Rural Commercial Bank Co., Ltd | ⚠️ Status: Unknown | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT |
 | China Academy of Railway Sciences | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT |
 | PowerChina International Group Limited (j3krPY) | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
 | Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
