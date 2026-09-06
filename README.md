@@ -73,6 +73,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 |:--------|:------|:----------|:--------|
 | AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
 | Chowbus, Inc | ✅ Signed | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
+| CITIC PACIFIC LIMITED | | | |
 
 ---
 
