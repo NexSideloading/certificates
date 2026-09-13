@@ -1,0 +1,34 @@
+name: Remove NexStore Folders
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  remove-nexstore:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Remove all NexStore folders
+        run: |
+          find . -type d -name "NexStore" -prune -exec rm -rf {} +
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No NexStore folders found."
+            exit 0
+          fi
+
+          git add -A
+          git commit -m "Remove NexStore folders"
+          git push
