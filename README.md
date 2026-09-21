@@ -79,7 +79,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Chowbus, Inc | ❌ Revoked | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
 
-| China FAW Corporation Limited | | | |
 ---
 
 # Disclaimer
