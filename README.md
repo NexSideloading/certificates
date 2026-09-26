@@ -65,8 +65,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
-| Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
-| Commission on Elections (Complaints Management) | ❌ Revoked | Sep 23 08:42:18 2025 GMT | Sep 23 08:42:18 2026 GMT |
 
 ---
 
@@ -74,7 +72,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
-| China FAW Corporation Limited | | | |
+| China FAW Corporation Limited | ✅ Signed | May 15 04:00:50 2026 GMT | May 23 06:27:50 2026 GMT |
 | CITIC PACIFIC LIMITED (Citic Prod) | ❌ Revoked | Jun 15 06:47:06 2026 GMT | Jun 15 06:47:06 2027 GMT |
 | CITIC PACIFIC LIMITED (CITIC SIT) | ❌ Revoked | Jun 15 06:46:49 2026 GMT | Jun 15 06:46:49 2027 GMT |
 | Chowbus, Inc | ❌ Revoked | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
