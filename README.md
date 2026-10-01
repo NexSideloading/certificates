@@ -65,6 +65,10 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
+| Beihang University (buaawxworklocalNOTI) | | | |
+| Beihang University (OA) | | | |
+| Beihang University (bhpanshare) | | | |
+| VINWASH COMPANY LIMITED | | | |
 
 ---
 
@@ -77,6 +81,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | CITIC PACIFIC LIMITED (CITIC SIT) | ❌ Revoked | Jun 15 06:46:49 2026 GMT | Jun 15 06:46:49 2027 GMT |
 | Chowbus, Inc | ❌ Revoked | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
+| Target Corporation | | | |
 
 ---
 
