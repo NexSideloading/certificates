@@ -48,6 +48,9 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| Beihang University (buaawxworklocalNOTI) | ❌ Revoked | Jan 7 09:01:23 2026 GMT | Dec 3 02:06:44 2026 GMT |
+| Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
+| VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
 | NAVECO Ltd (8OO2dj) | ❌ Revoked | Dec 2 07:34:16 2025 GMT | Dec 2 07:34:16 2026 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
@@ -62,13 +65,10 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Nov 3 03:27:13 2025 GMT | Nov 3 03:27:13 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
+| Beihang University (OA) | ❌ Revoked | Oct 22 06:54:34 2025 GMT | Oct 22 06:54:34 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
-| Beihang University (buaawxworklocalNOTI) | | | |
-| Beihang University (OA) | | | |
-| Beihang University (bhpanshare) | | | |
-| VINWASH COMPANY LIMITED | | | |
 
 ---
 
@@ -77,11 +77,11 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 |:--------|:------|:----------|:--------|
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
 | AmorePacific Trading Co.,Ltd | ✅ Signed | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
+| Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | CITIC PACIFIC LIMITED (Citic Prod) | ❌ Revoked | Jun 15 06:47:06 2026 GMT | Jun 15 06:47:06 2027 GMT |
 | CITIC PACIFIC LIMITED (CITIC SIT) | ❌ Revoked | Jun 15 06:46:49 2026 GMT | Jun 15 06:46:49 2027 GMT |
 | Chowbus, Inc | ❌ Revoked | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
-| Target Corporation | | | |
 
 ---
 
