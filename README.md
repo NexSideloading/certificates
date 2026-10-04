@@ -47,7 +47,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | Apr 23 08:41:58 2026 GMT | Apr 23 08:41:58 2027 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
-| National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| National Oilwell Varco, Inc (Carbon LAM) | ⚠️ Status: Unknown | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
 | Beihang University (buaawxworklocalNOTI) | ❌ Revoked | Jan 7 09:01:23 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
