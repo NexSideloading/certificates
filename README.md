@@ -25,7 +25,7 @@ Check out our API at [https://sideloading.net/api/](https://sideloading.net/api/
 
 ---
 
--  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), [CocoCloud](https://cococloud-signing.vip), [Eojoo](https://github.com/eojoo/free-ios-certificates), and [Delta Executor](https://delta.bz/) for missing P12 certificates.  
+-  Sources for these certificates include: [Loyahdev](https://github.com/loyahdev/certificates), [NezusHub](https://forum.nezushub.vip/forums/public-certificates.7/)/[NabzClan](https://nabzclan.vip/resources/categories/ios-certificates.2/), [AppleJR](https://www.applejr.net/), [Khoindvn](https://khoindvn.io.vn/), [CocoCloud](https://cococloud-signing.vip), [Eojoo](https://github.com/eojoo/free-ios-certificates), and [Delta Executor](https://delta.bz/) for missing P12 certificates. Some certs were shared on the NexSideloading Discord.  
   Most of these certificates originate from [AppleP12 Telegram](https://t.me/s/AppleP12).  
 - Certificate statuses update every 30 minutes.  
 View the certificate status [here](https://sideloading.net/certificates/)!  
@@ -80,6 +80,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | CITIC PACIFIC LIMITED (Citic Prod) | ❌ Revoked | Jun 15 06:47:06 2026 GMT | Jun 15 06:47:06 2027 GMT |
 | CITIC PACIFIC LIMITED (CITIC SIT) | ❌ Revoked | Jun 15 06:46:49 2026 GMT | Jun 15 06:46:49 2027 GMT |
+| KOREAN AIR LINES.CO., LTD | | | |
 | Chowbus, Inc | ❌ Revoked | Mar 10 19:44:14 2026 GMT | Mar 10 19:44:14 2027 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
 ---
