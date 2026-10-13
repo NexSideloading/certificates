@@ -48,6 +48,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| Vietnam Electricity | ❌ Revoked | Dec 14 12:19:31 2025 GMT | Dec 14 12:19:31 2026 GMT |
 | Beihang University (buaawxworklocalNOTI) | ❌ Revoked | Jan 7 09:01:23 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
@@ -69,7 +70,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
 | Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
-| Vietnam Electricity | | | |
 
 ---
 
