@@ -76,10 +76,10 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| Harley-Davidson, Inc | Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
-| Shanghai PizzaVest Fast Food Co., Ltd | Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
-| Target Corporation | Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
-| KOREAN AIR LINES.CO., LTD | Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
+| Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
+| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
+| KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
 | CITIC PACIFIC LIMITED (Citic Prod) | ❌ Revoked | Jun 15 06:47:06 2026 GMT | Jun 15 06:47:06 2027 GMT |
 | CITIC PACIFIC LIMITED (CITIC SIT) | ❌ Revoked | Jun 15 06:46:49 2026 GMT | Jun 15 06:46:49 2027 GMT |
 | AmorePacific Trading Co.,Ltd | ❌ Revoked | May 27 01:37:53 2026 GMT | May 27 01:37:53 2027 GMT |
