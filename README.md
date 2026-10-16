@@ -69,7 +69,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Beihang University (OA) | ❌ Revoked | Oct 22 06:54:34 2025 GMT | Oct 22 06:54:34 2026 GMT |
 | PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
 | PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
-| Viet Nam Rubber Group Limited | ❌ Revoked | Oct 16 06:51:08 2025 GMT | Oct 16 06:51:08 2026 GMT |
 
 ---
 
@@ -77,7 +76,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
-| Shanghai PizzaVest Fast Food Co., Ltd | Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
 | CITIC PACIFIC LIMITED (Citic Prod) | ❌ Revoked | Jun 15 06:47:06 2026 GMT | Jun 15 06:47:06 2027 GMT |
