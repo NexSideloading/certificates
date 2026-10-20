@@ -37,7 +37,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ✅ Signed | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
+| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ✅ Signed | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
 | RAKUTEN SECURITIES,INC. (iSpeed WidgetApp Dev) | ✅ Signed | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
