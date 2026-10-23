@@ -75,7 +75,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
-| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Shanghai PizzaVest Fast Food Co., Ltd | Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
 | ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
