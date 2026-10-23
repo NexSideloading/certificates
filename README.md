@@ -79,6 +79,8 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
+| China FAW Corporation Limited | | | |
+| Beiersdorf Shared Services GmbH | | | |
 
 ---
 
