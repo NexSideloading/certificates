@@ -77,10 +77,10 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
 | Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
 | ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
+| Beiersdorf Shared Services GmbH | ✅ Signed | Mar 9 07:46:10 2026 GMT | Mar 9 07:46:10 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
-| China FAW Corporation Limited | | | |
-| Beiersdorf Shared Services GmbH | | | |
+| China FAW Corporation Limited | ✅ Signed | May 13 09:03:15 2026 GMT | May 23 06:27:50 2026 GMT |
 
 ---
 
