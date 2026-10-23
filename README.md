@@ -37,8 +37,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ✅ Signed | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
-| RAKUTEN SECURITIES,INC. (iSpeed WidgetApp Dev) | ✅ Signed | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
@@ -48,6 +46,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
 | China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | Apr 23 08:41:58 2026 GMT | Apr 23 08:41:58 2027 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
+| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ❌ Revoked | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
 | Vietnam Electricity | ❌ Revoked | Dec 14 12:19:31 2025 GMT | Dec 14 12:19:31 2026 GMT |
@@ -66,6 +65,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
 | BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
+| RAKUTEN SECURITIES,INC. (iSpeed WidgetApp Dev) | ❌ Revoked | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Nov 3 03:27:13 2025 GMT | Nov 3 03:27:13 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
 
@@ -75,7 +75,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
-| Shanghai PizzaVest Fast Food Co., Ltd | Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
 | ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
