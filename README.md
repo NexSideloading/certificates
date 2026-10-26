@@ -80,6 +80,12 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Beiersdorf Shared Services GmbH | ✅ Signed | Mar 9 07:46:10 2026 GMT | Mar 9 07:46:10 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
+| Naravision Co., Ltd | | | |
+| DONG A PHARM.CO.,LTD | | | |
+| Sodra skogsagarna ekonomisk forening | | | |
+| Ecolab Inc | | | |
+| Integra LifeSciences Corp | | | |
+| KEB Hana Bank Co.. Ltd | | | |
 
 ---
 
