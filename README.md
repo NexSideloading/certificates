@@ -74,18 +74,18 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
+| Ecolab Inc | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
 | Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Sodra skogsagarna ekonomisk forening | ✅ Signed | May 22 12:40:32 2026 GMT | May 22 12:40:32 2027 GMT |
+| Naravision Co., Ltd | ✅ Signed | Apr 17 04:32:38 2026 GMT | Apr 17 04:32:38 2027 GMT |
 | ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
 | Beiersdorf Shared Services GmbH | ✅ Signed | Mar 9 07:46:10 2026 GMT | Mar 9 07:46:10 2027 GMT |
+| DONG A PHARM.CO.,LTD | ✅ Signed | Jan 20 02:27:28 2026 GMT | Jan 20 02:27:28 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
-| Naravision Co., Ltd | | | |
-| DONG A PHARM.CO.,LTD | | | |
-| Sodra skogsagarna ekonomisk forening | | | |
-| Ecolab Inc | | | |
-| Integra LifeSciences Corp | | | |
-| KEB Hana Bank Co.. Ltd | | | |
+| KEB Hana Bank Co.. Ltd | ✅ Signed | Nov 21 05:26:10 2025 GMT | Nov 21 05:26:10 2026 GMT |
+| Integra LifeSciences Corp | ✅ Signed | Oct 10 04:18:22 2025 GMT | Sep 28 02:21:04 2026 GMT |
 
 ---
 
