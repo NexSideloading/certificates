@@ -49,6 +49,9 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ❌ Revoked | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
 | National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
 | National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demoss5) | ❌ Revoked | Jan 25 03:08:12 2026 GMT | Jan 25 03:08:12 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demo4) | ❌ Revoked | Jan 25 03:07:51 2026 GMT | Jan 25 03:07:51 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demo3) | ❌ Revoked | Jan 25 03:07:30 2026 GMT | Jan 25 03:07:30 2027 GMT |
 | Vietnam Electricity | ❌ Revoked | Dec 14 12:19:31 2025 GMT | Dec 14 12:19:31 2026 GMT |
 | Beihang University (buaawxworklocalNOTI) | ❌ Revoked | Jan 7 09:01:23 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
@@ -68,9 +71,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | RAKUTEN SECURITIES,INC. (iSpeed WidgetApp Dev) | ❌ Revoked | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Nov 3 03:27:13 2025 GMT | Nov 3 03:27:13 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
-| Viet Nam Rubber Group Limited (XC iOS demoss5) | | | |
-| Viet Nam Rubber Group Limited (XC iOS demo3) | | | |
-| Viet Nam Rubber Group Limited (XC iOS demo4) | | | |
 
 ---
 
