@@ -68,6 +68,9 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | RAKUTEN SECURITIES,INC. (iSpeed WidgetApp Dev) | ❌ Revoked | Nov 5 05:04:09 2025 GMT | Nov 5 05:04:09 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.thinghiemdien) | ❌ Revoked | Nov 3 03:27:13 2025 GMT | Nov 3 03:27:13 2026 GMT |
 | CENTRAL POWER INFORMATION TECHNOLOGY COMPANY - CENTRAL POWER CORPORATION (com.cpc.it.tracnghiemantoan) | ❌ Revoked | Nov 3 03:26:37 2025 GMT | Nov 3 03:26:37 2026 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demoss5) | | | |
+| Viet Nam Rubber Group Limited (XC iOS demo3) | | | |
+| Viet Nam Rubber Group Limited (XC iOS demo4) | | | |
 
 ---
 
