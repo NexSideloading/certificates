@@ -64,10 +64,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | China Academy of Railway Sciences | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT |
 | PowerChina International Group Limited (j3krPY) | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
 | Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
-| BOC International (China) Limited (qi ye weixin app id huiyi kuozhan) | ❌ Revoked | Nov 12 06:58:50 2025 GMT | Nov 6 01:06:11 2026 GMT |
-| BOC International (China) Limited (qi ye weixin app id kuozhan) | ❌ Revoked | Nov 12 06:56:35 2025 GMT | Nov 6 01:06:11 2026 GMT |
-| BOC International (China) Limited (qi ye weixin app id tuisong kuozhan) | ❌ Revoked | Nov 12 06:59:32 2025 GMT | Nov 6 01:06:11 2026 GMT |
-| BOC International (China) Limited (qi ye weixin zhu app id) | ❌ Revoked | Nov 12 06:47:30 2025 GMT | Nov 6 01:06:11 2026 GMT |
 
 ---
 
