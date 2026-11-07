@@ -62,7 +62,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | NAVECO Ltd (XmS4CV) | ❌ Revoked | Nov 18 03:54:37 2025 GMT | Nov 18 03:54:37 2026 GMT |
 | Qingdao Rural Commercial Bank Co., Ltd | ❌ Revoked | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT |
 | China Academy of Railway Sciences | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT |
-| PowerChina International Group Limited (j3krPY) | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
 
 ---
 
