@@ -68,6 +68,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
+| Chengdu Railway Bureau | ✅ Signed | Oct 2 12:12:27 2026 GMT | Oct 2 12:12:27 2027 GMT |
 | Ecolab Inc | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
 | Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
@@ -79,7 +80,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
 | KEB Hana Bank Co.. Ltd | ✅ Signed | Nov 21 05:26:10 2025 GMT | Nov 21 05:26:10 2026 GMT |
-| Chengdu Railway Bureau | ❌ Revoked | Apr 2 02:30:28 2026 GMT | Apr 2 02:30:28 2027 GMT |
 
 ---
 
