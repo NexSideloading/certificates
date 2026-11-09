@@ -79,7 +79,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
 | KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
 | KEB Hana Bank Co.. Ltd | ✅ Signed | Nov 21 05:26:10 2025 GMT | Nov 21 05:26:10 2026 GMT |
-| China Academy of Railway Sciences | ❌ Revoked | Apr 2 02:30:28 2026 GMT | Apr 2 02:30:28 2027 GMT |
+| Chengdu Railway Bureau | ❌ Revoked | Apr 2 02:30:28 2026 GMT | Apr 2 02:30:28 2027 GMT |
 
 ---
 
