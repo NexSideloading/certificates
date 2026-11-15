@@ -57,7 +57,7 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
 | NAVECO Ltd (8OO2dj) | ❌ Revoked | Dec 2 07:34:16 2025 GMT | Dec 2 07:34:16 2026 GMT |
-| PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
+| PowerChina International Group Limited (DoaTYw) | ⚠️ Status: Unknown | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
 | NAVECO Ltd (XmS4CV) | ❌ Revoked | Nov 18 03:54:37 2025 GMT | Nov 18 03:54:37 2026 GMT |
 
@@ -66,9 +66,9 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| NongHyup Agribusiness Group Inc | | | |
 | Chengdu Railway Bureau | ✅ Signed | Oct 2 12:12:27 2026 GMT | Oct 2 12:12:27 2027 GMT |
 | Ecolab Inc | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
+| NongHyup Agribusiness Group Inc | ✅ Signed | Jul 1 05:18:07 2026 GMT | Jul 1 05:18:07 2027 GMT |
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
 | Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
 | Sodra skogsagarna ekonomisk forening | ✅ Signed | May 22 12:40:32 2026 GMT | May 22 12:40:32 2027 GMT |
