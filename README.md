@@ -60,7 +60,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
 | NAVECO Ltd (XmS4CV) | ❌ Revoked | Nov 18 03:54:37 2025 GMT | Nov 18 03:54:37 2026 GMT |
-| Qingdao Rural Commercial Bank Co., Ltd | ❌ Revoked | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT |
 
 ---
 
