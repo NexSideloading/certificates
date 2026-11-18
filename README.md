@@ -38,47 +38,47 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
 | Chengdu Railway Bureau | ✅ Signed | Oct 2 12:12:27 2026 GMT | Oct 2 12:12:27 2027 GMT |
-| PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
-| PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
-| NAVECO Ltd (8OO2dj) | ❌ Revoked | Dec 2 07:34:16 2025 GMT | Dec 2 07:34:16 2026 GMT |
-| VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
+| Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
+| Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
+| Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
+| Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban inde) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
+| HSBC Bank plc | ❌ Revoked | May 4 05:56:26 2026 GMT | May 4 05:56:26 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
+| China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | Apr 23 08:41:58 2026 GMT | Apr 23 08:41:58 2027 GMT |
+| XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
+| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ❌ Revoked | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
+| National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
+| National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demoss5) | ❌ Revoked | Jan 25 03:08:12 2026 GMT | Jan 25 03:08:12 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demo4) | ❌ Revoked | Jan 25 03:07:51 2026 GMT | Jan 25 03:07:51 2027 GMT |
+| Viet Nam Rubber Group Limited (XC iOS demo3) | ❌ Revoked | Jan 25 03:07:30 2026 GMT | Jan 25 03:07:30 2027 GMT |
+| Vietnam Electricity | ❌ Revoked | Dec 14 12:19:31 2025 GMT | Dec 14 12:19:31 2026 GMT |
 | Beihang University (buaawxworklocalNOTI) | ❌ Revoked | Jan 7 09:01:23 2026 GMT | Dec 3 02:06:44 2026 GMT |
 | Beihang University (bhpanshare) | ❌ Revoked | Jan 7 08:00:13 2026 GMT | Dec 3 02:06:44 2026 GMT |
-| Vietnam Electricity | ❌ Revoked | Dec 14 12:19:31 2025 GMT | Dec 14 12:19:31 2026 GMT |
-| Viet Nam Rubber Group Limited (XC iOS demo3) | ❌ Revoked | Jan 25 03:07:30 2026 GMT | Jan 25 03:07:30 2027 GMT |
-| Viet Nam Rubber Group Limited (XC iOS demo4) | ❌ Revoked | Jan 25 03:07:51 2026 GMT | Jan 25 03:07:51 2027 GMT |
-| Viet Nam Rubber Group Limited (XC iOS demoss5) | ❌ Revoked | Jan 25 03:08:12 2026 GMT | Jan 25 03:08:12 2027 GMT |
-| National Oilwell Varco, Inc (Carbon LAM) | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
-| National Oilwell Varco, Inc (WB Carbon) | ❌ Revoked | Jan 26 22:25:33 2026 GMT | Jan 26 22:25:33 2027 GMT |
-| RAKUTEN SECURITIES,INC. (shisankeisei Pushnotification) | ❌ Revoked | Feb 9 01:15:30 2026 GMT | Feb 9 01:15:30 2027 GMT |
-| XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
-| China Telecom Corporation Limited (XC com ctq qmc yiban p) | ❌ Revoked | Apr 23 08:41:58 2026 GMT | Apr 23 08:41:58 2027 GMT |
-| China Telecom Corporation Limited (XC com ctq qmc yiban product) | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
-| HSBC Bank plc | ❌ Revoked | May 4 05:56:26 2026 GMT | May 4 05:56:26 2027 GMT |
-| China Telecom Corporation Limited (XC com ctq qmc yiban inde) | ❌ Revoked | May 5 04:09:18 2026 GMT | May 5 04:09:18 2027 GMT |
-| Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
-| Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
-| Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
-| Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
+| VINWASH COMPANY LIMITED | ❌ Revoked | Dec 2 11:55:15 2025 GMT | Dec 2 11:55:15 2026 GMT |
+| NAVECO Ltd (8OO2dj) | ❌ Revoked | Dec 2 07:34:16 2025 GMT | Dec 2 07:34:16 2026 GMT |
+| PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
+| PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
 
 ---
 
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| KEB Hana Bank Co.. Ltd | ✅ Signed | Nov 21 05:26:10 2025 GMT | Nov 21 05:26:10 2026 GMT |
-| KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
-| Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
-| Yonsei Medical Center | ✅ Signed | Jan 19 04:35:19 2026 GMT | Jan 19 04:35:19 2027 GMT |
-| DONG A PHARM.CO.,LTD | ✅ Signed | Jan 20 02:27:28 2026 GMT | Jan 20 02:27:28 2027 GMT |
-| Beiersdorf Shared Services GmbH | ✅ Signed | Mar 9 07:46:10 2026 GMT | Mar 9 07:46:10 2027 GMT |
-| ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
-| Naravision Co., Ltd | ✅ Signed | Apr 17 04:32:38 2026 GMT | Apr 17 04:32:38 2027 GMT |
-| Sodra skogsagarna ekonomisk forening | ✅ Signed | May 22 12:40:32 2026 GMT | May 22 12:40:32 2027 GMT |
-| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
-| Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
-| NongHyup Agribusiness Group Inc | ✅ Signed | Jul 1 05:18:07 2026 GMT | Jul 1 05:18:07 2027 GMT |
 | Ecolab Inc | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
+| NongHyup Agribusiness Group Inc | ✅ Signed | Jul 1 05:18:07 2026 GMT | Jul 1 05:18:07 2027 GMT |
+| Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
+| Shanghai PizzaVest Fast Food Co., Ltd | ✅ Signed | Jun 6 06:45:57 2026 GMT | Jun 6 06:45:57 2027 GMT |
+| Sodra skogsagarna ekonomisk forening | ✅ Signed | May 22 12:40:32 2026 GMT | May 22 12:40:32 2027 GMT |
+| Naravision Co., Ltd | ✅ Signed | Apr 17 04:32:38 2026 GMT | Apr 17 04:32:38 2027 GMT |
+| ZheJiang BaoXiNiao Garment Co Ltd | ✅ Signed | Mar 30 05:35:44 2026 GMT | Mar 30 05:35:44 2027 GMT |
+| Beiersdorf Shared Services GmbH | ✅ Signed | Mar 9 07:46:10 2026 GMT | Mar 9 07:46:10 2027 GMT |
+| DONG A PHARM.CO.,LTD | ✅ Signed | Jan 20 02:27:28 2026 GMT | Jan 20 02:27:28 2027 GMT |
+| Yonsei Medical Center | ✅ Signed | Jan 19 04:35:19 2026 GMT | Jan 19 04:35:19 2027 GMT |
+| Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
+| KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
+| KEB Hana Bank Co.. Ltd | ✅ Signed | Nov 21 05:26:10 2025 GMT | Nov 21 05:26:10 2026 GMT |
 
 ---
 
