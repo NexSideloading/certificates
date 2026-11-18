@@ -145,7 +145,12 @@ def get_certificate_status(cert_name, no_p12=False):
                 }
                 response = requests.post(url, files=files, data=data, timeout=60)
         
+        if not response.ok:
+            print(f"❌ API returned HTTP {response.status_code}")
+            print(f"Response body: {response.text[:2000]}")
         response.raise_for_status()
+
+result = response.json()
         result = response.json()
     except Exception as e:
         print(f"❌ Error checking {cert_name}: {e}")
@@ -252,25 +257,21 @@ def sort_certificates_by_expiry(certificates):
     Returns:
         Sorted list of certificates
     """
+
     def get_sort_key(cert):
-        # Primary sort: status (valid/signed first, then others)
+        # Primary sort: valid/signed certificates first
         status = cert.get('status', '').lower()
         is_valid = status in ('valid', 'signed')
         status_priority = 0 if is_valid else 1
-        
-        # Secondary sort: expiry date (descending for oldest at top)
+        # Secondary sort: oldest expiry first
         valid_to = cert.get('valid_to', '')
         dt = parse_api_date(valid_to)
-        if dt:
-            # Use negative timestamp to sort descending
-            expiry_key = -dt.timestamp()
-        else:
-            # If parsing fails, use a far past date so it sorts first (oldest)
-            expiry_key = -datetime.min.timestamp()
-        
+        # Missing/invalid dates go last
+        expiry_key = dt if dt else datetime.max
         return (status_priority, expiry_key)
-    
+
     return sorted(certificates, key=get_sort_key)
+
 
 def update_readme_table(certificates, lines):
     """Update the README.md lines with new certificate statuses and sort by expiry."""
