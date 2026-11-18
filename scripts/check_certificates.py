@@ -150,7 +150,6 @@ def get_certificate_status(cert_name, no_p12=False):
             print(f"Response body: {response.text[:2000]}")
         response.raise_for_status()
 
-result = response.json()
         result = response.json()
     except Exception as e:
         print(f"❌ Error checking {cert_name}: {e}")
