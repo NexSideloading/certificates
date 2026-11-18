@@ -67,7 +67,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates missing P12
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| Chengdu Railway Bureau | ✅ Signed | Oct 2 12:12:27 2026 GMT | Oct 2 12:12:27 2027 GMT |
 | Ecolab Inc | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
 | NongHyup Agribusiness Group Inc | ✅ Signed | Jul 1 05:18:07 2026 GMT | Jul 1 05:18:07 2027 GMT |
 | Harley-Davidson, Inc | ✅ Signed | Jun 25 12:20:43 2026 GMT | Jun 25 12:20:43 2027 GMT |
