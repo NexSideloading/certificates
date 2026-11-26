@@ -76,7 +76,6 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 | DONG A PHARM.CO.,LTD | ✅ Signed | Jan 20 02:27:28 2026 GMT | Jan 20 02:27:28 2027 GMT |
 | Yonsei Medical Center | ✅ Signed | Jan 19 04:35:19 2026 GMT | Jan 19 04:35:19 2027 GMT |
 | Target Corporation | ✅ Signed | Jan 6 16:06:09 2026 GMT | Jan 6 16:06:09 2027 GMT |
-| KOREAN AIR LINES.CO., LTD | ✅ Signed | Apr 7 06:17:57 2026 GMT | Nov 26 06:26:14 2026 GMT |
 
 ---
 
