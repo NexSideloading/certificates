@@ -37,8 +37,8 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ## Certificates
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
-| Ecolab Inc (epidqa) | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
 | Ecolab Inc (epiddev) | ✅ Signed | Sep 6 11:40:12 2026 GMT | Sep 6 11:40:12 2027 GMT |
+| Ecolab Inc (epidqa) | ✅ Signed | Jul 30 13:49:26 2026 GMT | Jul 30 13:49:26 2027 GMT |
 | Chengdu Railway Bureau | ❌ Revoked | Oct 2 12:12:27 2026 GMT | Oct 2 12:12:27 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (workone) | ❌ Revoked | Jun 23 08:49:44 2026 GMT | Jun 23 08:49:44 2027 GMT |
 | Jiangsu Simcere Pharmaceutical Co.,Ltd (worktwo) | ❌ Revoked | Jun 23 08:49:28 2026 GMT | Jun 23 08:49:28 2027 GMT |
